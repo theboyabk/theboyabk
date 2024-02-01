@@ -1,8 +1,6 @@
 <h3 align="center">I am a programmer without the PRO in it.</h3>
 
-- 🔭 I’m currently working on my friend's [Youtube Channel](https://www.youtube.com/@DeepFacts-mh5qy)
-
-- 🌱 I’m currently learning **Javascript & Python**
+- 🌱 I’m currently learning **Java & Python**
 
 - 👯 I have worked on many **HTML and CSS Projects**
 
