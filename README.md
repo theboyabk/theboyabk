@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Video Editing**
 
-- 📫 How to reach me **kabhi12nav@gmail.com**
+- 📫 How to reach me **abhiiik102@gmail.com**
 
 - ⚡ Fun fact **I think I ain't made for programming.**
 
